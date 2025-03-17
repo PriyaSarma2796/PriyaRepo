@@ -1,2 +1,2 @@
-Welcome to Devops class...
+
 Today we need to learn about how to create a Github Account..
